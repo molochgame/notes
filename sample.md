@@ -26,7 +26,8 @@ But we understand the dad didn't bother calculating any of this, and by not doin
 
 If the analogy could get more obvious, I'm not sure how. Many people are concerned about electricity and water usage by AI. Let's just say The nUmbErS mAy sHocK YoU.
 
-<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/6577dce0-3bfa-4682-b3b8-d154a1415f98" />
+<img width="1672" height="941" alt="abc" src="https://github.com/user-attachments/assets/25fafafe-0cf2-4a80-9717-b71d5c2f58fa" />
+
 
 
 Making a _slice of toast_ is as bad as [15 AI images](https://arxiv.org/abs/2311.16863)? What we *should* be very concerned with is why anyone thinks AI is destroying the planet, and the main reason is sad: if 100 million people do something, like toast bread, boil pasta, watch YouTube, or generate images, you have to multiply the number by one hundred million. Then you can have a headline like "AI uses three hundred million watt hours per day." Of course you could have an article like "toasters use 5 billion watt hours per day" but toasters aren't political (yet 🤞) and won't benefit you with clicks, ad money, and upvotes.
@@ -45,10 +46,30 @@ Don't like gamers? Did you know those _mother_ **_fuckers_** are wasting electri
     700 billion watt-hours per year
     350,000 tonnes CO2
 
-<img width="712" height="310" alt="Untitled" src="https://github.com/user-attachments/assets/b94dfc55-3bda-482e-944b-e25b5c341171" />
+<img width="712" height="310" alt="123" src="https://github.com/user-attachments/assets/c18c3401-193b-43a8-a10d-28d8a86443e1" />
 
 Fox? New York Times? Reddit front page? I'm available for work!
 
 Don't you love **facts**? Anyone wanting to **fact** check will find my title is **fact**ually true! It's not meaningful of course, but you're not going to stumble upon counter arguments while Googling, because google search simply finds you what you are _looking for_. Confirmation bias machines. If only we could invent a technology that could answer a persons questions with nuance...
 
 Surge in demand is the real issue, because AI is the [fastest-growing consumer application in history](https://www.reuters.com/legal/transactional/anthropic-v-openai-behind-bitter-battle-future-ai-2026-06-11/). It's smart to not want datacenters next to your home in the same way you don't want iron mines or toilet paper factories right next to you, but you probably wouldn't want to ditch their products.
+
+<img width="613" height="184" alt="g" src="https://github.com/user-attachments/assets/7933356f-c02b-4ed0-ba3e-ac7bb93e6b2d" />
+
+
+##
+_Damn_, I forgot the "project into future" inflator trick for the gamer one... I'll just do another:
+
+<img width="618" height="182" alt="v" src="https://github.com/user-attachments/assets/245b39cf-99d2-496c-bf54-760e622b2869" />
+
+> "What do you expect them to do, NOT have perfectly green grass!?"
+
+While developing over 3 years of dev, the result was my total energy usage for AI tools was only 2 percent of my computer's electrical usage. Equivalent to using a space heater for a weekend. By comparison, the cost of just having my monitor on while working was 5 times that, while my PC used about 60 times.
+
+(more under WIP status)
+
+## TLDR
+While the "educated" waste their time reading, you, an intellectual, can save time AND ELECTRICITY by having ChatGPT shorten the whole article, and dO aLl yOUr ThiNkInG foR YoU. A computer monitor uses 10 times more energy while you read text on it than ChatGPT does shortening it to 1/10th size. (mobile gang rise up) I'm not instructing you to do this btw, this is itself the TLDR of my post.
+
+AND since that LLM summary would use 1,000 (one thousand) times less water than a single almond, you can forgo a mouthful, use ChatGPT for a year, and sit on your high horse at the same time. Best part is you don't have to give money to the AI companies either. LLMs are so absurdly efficient now that they give away usage for fucking free.
+
