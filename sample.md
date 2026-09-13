@@ -50,7 +50,7 @@ Don't like gamers? Did you know those _mother_ **_fuckers_** are wasting electri
 
 Fox? New York Times? Reddit front page? I'm available for work!
 
-Don't you love **facts**? Anyone wanting to **fact** check will find my title is **fact**ually true! It's not meaningful of course, but you're not going to stumble upon counter arguments while Googling, because google search simply finds you what you are _looking for_. Confirmation bias machines. If only we could invent a technology that could answer a persons questions with nuance...
+Don't you love **facts**? Anyone wanting to **fact** check will find my title is **fact**ually true! It's not meaningful of course, but you're not going to stumble upon counter arguments while Googling, because google search simply finds you what you are _looking for_. Confirmation bias machines. If only we could invent a [technology that could answer a persons questions with nuance](https://chatgpt.com/share/6aa6d420-1bdc-83ea-8528-79daa58d49a6)...
 
 Surge in demand is the real issue, because AI is the [fastest-growing consumer application in history](https://www.reuters.com/legal/transactional/anthropic-v-openai-behind-bitter-battle-future-ai-2026-06-11/). It's smart to not want datacenters next to your home in the same way you don't want iron mines or toilet paper factories right next to you, but you probably wouldn't want to ditch their products.
 
