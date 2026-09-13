@@ -66,7 +66,7 @@ _Damn_, I forgot the "project into future" inflator trick for the gamer one... I
 
 While developing over 3 years of dev, the result was my total energy usage for AI tools was only 2 percent of my computer's electrical usage. Equivalent to using a space heater for a weekend. By comparison, the cost of just having my monitor on while working was 5 times that, while my PC used about 60 times.
 
-(more under WIP status)
+## more points addressed, but under WIP status
 
 ## TLDR
 While the "educated" waste their time reading, you, an intellectual, can save time AND ELECTRICITY by having ChatGPT shorten the whole article, and dO aLl yOUr ThiNkInG foR YoU. A computer monitor uses 10 times more energy while you read text on it than ChatGPT does shortening it to 1/10th size. (mobile gang rise up) I'm not instructing you to do this btw, this is itself the TLDR of my post.
