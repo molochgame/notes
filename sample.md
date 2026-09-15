@@ -56,8 +56,7 @@ Surge in demand is the real issue, because AI is the [fastest-growing consumer a
 
 If you're sophisticated, you'll wonder "Did the numbers in the chart include the resources used to build the thing?" But if you're _really_ sophisticated, you'll wonder why nobody seems to asks that same question about toasters and lawnmowers.
 
-<img width="952" height="700" alt="download" src="https://github.com/user-attachments/assets/a1682922-310c-4e45-ad8a-883c9751a1eb" />
-
+<img width="952" height="618" alt="download" src="https://github.com/user-attachments/assets/36c1a1de-c85e-471a-9514-317f06bcedc8" />
 
 Onetime I could have gotten killed by a statistical mistake. I was with a doctor for a checkup, who took my heart rate and noticed it was (120+ bpm), while sitting still, which is WAY too high. She asked if I had been exercising just beforehand: no. She had me sit there for a while, to see if it would go back down. After a few minutes it did, and so I left.
 
@@ -67,11 +66,11 @@ While searching for information, you sometimes know the kind answer you want (pr
 
 Nodes of red and blue expanding
 
-My choice of color coding isn't a coincidence; it's a reference to the Halo machinima series red vs blue
+If my choice of color coding wasn't obvious, it's a reference to the most common team colors in Halo, where biased players always conclude lag caused them to miss the headshot.
 
 The youtube video spoils it, but if the doctor would have kept taking data points, she would have noticed my heart rate was bouncing all over the place because I was suffering from tachycardia, which can be life threatening. (In this case it was caused by Bupropion, so probably wasn't _that_ dangerous, but it wasn't good for my heart. Fortunately the next day I noticed I could hear my heart beat while working at a computer and put 2 and 2 together)
 
-People aren't asking about the resources used to produce toasters and lawnmowers because nobody wants to hate them. People want to hate AI. Social dynamics play a major role here too: You are not likely to correct factual mistakes in social settings if the target is uncool, and neither is anyone else. But if no one is willing to be the "um actually" guy (cringe), physical reality will eventually be the one having a talk with everyone. Entire nations have played this game, usually by convincing themselves they are special. It always ends with them losing a war and half their population (based)
+To make everyone happy I included it for the AI but not the toaster. Nobody asks about the resources used to produce toasters and lawnmowers because nobody cares about them. People want dirt on AI. Social dynamics play a role: almost nobody likes to correct factual mistakes in social settings, even _if_ they know better, assuming the target is uncool. This causes bullshit to spread like wildfire. If no one is willing to be the "um actually" guy (cringe), physical reality may fill the role eventually. Entire nations have played this game, usually by convincing themselves they are special. It always ends with them losing a war and 20% of their population (based)
 
 <img width="613" height="184" alt="g" src="https://github.com/user-attachments/assets/7933356f-c02b-4ed0-ba3e-ac7bb93e6b2d" />
 
