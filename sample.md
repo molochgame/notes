@@ -47,7 +47,7 @@ Don't like gamers? Did you know those _mother_ **_fuckers_** are wasting electri
 
 <img width="712" height="310" alt="123" src="https://github.com/user-attachments/assets/c18c3401-193b-43a8-a10d-28d8a86443e1" />
 
-Fox? New York Times? Reddit front page? I'm available for work!
+_Fox? New York Times? Reddit front page? I'm available for work! You should always put numbers like 350,000 tons into terms people can understand, like football fields, or your mom._
 
 Don't you love **facts**? Anyone wanting to **fact** check will find my title is **fact**ually true! It's not meaningful of course, but you're not going to stumble upon counter arguments while Googling, because google search simply finds you what you are _looking for_. Confirmation bias machines. If only we could invent a [technology that could answer a persons questions with nuance](https://chatgpt.com/share/6aa6d420-1bdc-83ea-8528-79daa58d49a6)...
 
