@@ -35,13 +35,12 @@ Making a _slice of toast_ is as bad as [15 AI images](https://arxiv.org/abs/2311
 Spoiler alert, this is exactly how it is with water and heat concerns too. This is known as the [Chinese Robber Fallacy](https://slatestarcodex.com/2015/09/16/cardiologists-and-chinese-robbers/).  Did you know I only drink 1 liter of water per day, but all americans drink 350 million? YOU ALL need to get their shit together. If you have a political TARGET you want to hurt, you can just invent a headline out of nothing with this trick. My personal favorite is `#CORPORATION_WITH_1MILLION_CUSTOMERS` has issues with `#UNIVERSAL_ISSUE_TIMES_1MILLION` 
 
 
-
-Anyway, don't like gamers? Did you know those _mother_ **_fuckers_** are wasting electricity on RGB lighting inside their PCs?
+Don't like gamers? Did you know those _mother_ **_fuckers_** are wasting electricity on RGB lighting inside their PCs?
 
     250 million gaming rigs worldwide
     50% with RGB
     6 W of lighting each
-    2.5 hours per day (never ask a gamer their uptime)
+    2.5 hours per day for gamers (I dare not put a realistic number here)
     900 hours per year
     700 billion watt-hours per year
     350,000 tonnes CO2
@@ -52,25 +51,28 @@ Fox? New York Times? Reddit front page? I'm available for work!
 
 Don't you love **facts**? Anyone wanting to **fact** check will find my title is **fact**ually true! It's not meaningful of course, but you're not going to stumble upon counter arguments while Googling, because google search simply finds you what you are _looking for_. Confirmation bias machines. If only we could invent a [technology that could answer a persons questions with nuance](https://chatgpt.com/share/6aa6d420-1bdc-83ea-8528-79daa58d49a6)...
 
-Surge in demand is the real issue, because AI is the [fastest-growing consumer application in history](https://www.reuters.com/legal/transactional/anthropic-v-openai-behind-bitter-battle-future-ai-2026-06-11/). It's smart to not want datacenters next to your home in the same way you don't want iron mines or toilet paper factories right next to you, but you probably wouldn't want to ditch their products.
+Surge in demand is the real issue, because AI is the [fastest-growing consumer application in history](https://www.reuters.com/legal/transactional/anthropic-v-openai-behind-bitter-battle-future-ai-2026-06-11/). It's smart to not want datacenters next to your home in the same way you don't want iron mines or toilet paper factories in your backyard, but you probably wouldn't want to ditch their products.
 
-If you're sophisticated, you'll wonder "Did the numbers in the chart include the resources used to build the thing?" But if you're _really_ sophisticated, you'll wonder why nobody seems to asks that same question about toasters and lawnmowers.
+Now if you're sophisticated, you'll wonder "Did the numbers in the chart include the resources used to build the thing?" But if you're _really_ sophisticated, you'll wonder why nobody seems to asks that same question about toasters and lawnmowers.
 
-<img width="952" height="618" alt="download" src="https://github.com/user-attachments/assets/36c1a1de-c85e-471a-9514-317f06bcedc8" />
+<img width="952" height="618" alt="download" src="https://github.com/user-attachments/assets/96e0721d-6e72-4a9b-ab1e-00456881fcae" />
 
-Onetime I could have gotten killed by a statistical mistake. I was with a doctor for a checkup, who took my heart rate and noticed it was (120+ bpm), while sitting still, which is WAY too high. She asked if I had been exercising just beforehand: no. She had me sit there for a while, to see if it would go back down. After a few minutes it did, and so I left.
+I take statistical mistakes seriously because onetime I could have gotten killed by one. I was with a doctor for a checkup, who took my heart rate and noticed it was (120+ bpm), while sitting still, which is WAY too high. She asked if I had been exercising just beforehand: no. She had me sit there for a while, to see if it would go back down. After a few minutes it did, and so I left.
 
 Do you see the problem?
 
 While searching for information, you sometimes know the kind answer you want (pro X or anti X). The world is a complex network of information. There are many arguments and counter arguments, data for and data against. Anyone who stops looking for information when they find the answer they want will eventually find that ALL the arguments support their idea, even when a deep dive would reveal nuance. This is the fundamental way people become biased on any and all topics: If you stop looking for information when you find the information you want, you will come to believe whatever you want. This even happens in [science experiments](https://www.youtube.com/watch?v=42QuXLucH3Q&t=365s).
 
-Nodes of red and blue expanding
+<img width="3000" height="2200" alt="r" src="https://github.com/user-attachments/assets/6e027945-512e-4ea6-86f7-f3ee6e0eb80a" />
 
-If my choice of color coding wasn't obvious, it's a reference to the most common team colors in Halo, where biased players always conclude lag caused them to miss the headshot.
+
+If my choice of color coding wasn't obvious, it's a reference to the most common team colors in Halo (red vs blue), where _biased_ players always conclude lag and hacking caused them to lose. The beacon of truth is default Master Chief, who is green.
 
 The youtube video spoils it, but if the doctor would have kept taking data points, she would have noticed my heart rate was bouncing all over the place because I was suffering from tachycardia, which can be life threatening. (In this case it was caused by Bupropion, so probably wasn't _that_ dangerous, but it wasn't good for my heart. Fortunately the next day I noticed I could hear my heart beat while working at a computer and put 2 and 2 together)
 
 To make everyone happy I included it for the AI but not the toaster. Nobody asks about the resources used to produce toasters and lawnmowers because nobody cares about them. People want dirt on AI. Social dynamics play a role: almost nobody likes to correct factual mistakes in social settings, even _if_ they know better, assuming the target is uncool. This causes bullshit to spread like wildfire. If no one is willing to be the "um actually" guy (cringe), physical reality may fill the role eventually. Entire nations have played this game, usually by convincing themselves they are special. It always ends with them losing a war and 20% of their population (based)
+
+Everyone wants to be cool and have friends, and it takes a certain skill to be able to "read the room". It takes another skill to notice when a room isn't worth being in. For a while, highschool has all the cool kids, but eventually you graduate.
 
 <img width="613" height="184" alt="g" src="https://github.com/user-attachments/assets/7933356f-c02b-4ed0-ba3e-ac7bb93e6b2d" />
 
