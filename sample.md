@@ -57,7 +57,7 @@ Now if you're sophisticated, you'll wonder "Did the numbers in the chart include
 
 <img width="952" height="618" alt="download" src="https://github.com/user-attachments/assets/96e0721d-6e72-4a9b-ab1e-00456881fcae" />
 
-## I take statistical mistakes seriously because onetime I could have gotten killed by one.
+## I take statistical mistakes seriously because one time I could have gotten killed by one.
 
 I was with a doctor for a checkup, who took my heart rate and noticed it was (120+ bpm), while sitting still, which is WAY too high. She asked if I had been exercising just beforehand: no. She had me sit there for a while, to see if it would go back down. After a few minutes it did, and so I left.
 
