@@ -68,11 +68,9 @@ While searching for information, you sometimes know the kind answer you want (pr
 
 If my choice of color coding wasn't obvious, it's a reference to the most common team colors in Halo (red vs blue), where _biased_ players always conclude lag and hacking caused them to lose. The beacon of truth is default Master Chief, who is green.
 
-The youtube video spoils it, but if the doctor would have kept taking data points, she would have noticed my heart rate was bouncing all over the place because I was suffering from tachycardia, which can be life threatening. (In this case it was caused by Bupropion, so probably wasn't _that_ dangerous, but it wasn't good for my heart. Fortunately the next day I noticed I could hear my heart beat while working at a computer and put 2 and 2 together)
+The youtube video spoils it, but if the doctor would have kept taking data points, she would have noticed my heart rate was bouncing all over the place because I was suffering from tachycardia, which can be life threatening. (In this case it probably wasn't)
 
-To make everyone happy I included it for the AI but not the toaster. Nobody asks about the resources used to produce toasters and lawnmowers because nobody cares about them. People want dirt on AI. Social dynamics play a role: almost nobody likes to correct factual mistakes in social settings, even _if_ they know better, assuming the target is uncool. This causes bullshit to spread like wildfire. If no one is willing to be the "um actually" guy (cringe), physical reality may fill the role eventually. Entire nations have played this game, usually by convincing themselves they are special. It always ends with them losing a war and 20% of their population (based)
-
-Everyone wants to be cool and have friends, and it takes a certain skill to be able to "read the room". It takes another skill to notice when a room isn't worth being in. For a while, highschool has all the cool kids, but eventually you graduate.
+To make everyone happy I included it for the AI but not the toaster. Nobody asks about the resources used to produce toasters and lawnmowers because nobody cares about them. People want dirt on AI. Social dynamics play a role: almost nobody likes to correct factual mistakes in social settings, even _if_ they know better, assuming the target is uncool. This causes bullshit to spread like wildfire. Sometimes no one is willing to be the "um actually" guy (cringe). Entire nations have played this game, usually by convincing themselves they are special, and it always ends with them losing a war and 20% of their population (based). Everyone wants to be cool and have friends, and it takes a certain skill to be able to "read the room". It takes another skill to notice when a room isn't worth being in.
 
 <img width="613" height="184" alt="g" src="https://github.com/user-attachments/assets/7933356f-c02b-4ed0-ba3e-ac7bb93e6b2d" />
 
@@ -84,7 +82,12 @@ _Damn_, I forgot the "project into future" inflator trick for the gamer one... I
 
 > "What do you expect them to do, NOT have perfectly green grass!?"
 
-While developing over 3 years of dev, the result was my total energy usage for AI tools was only 2 percent of my computer's electrical usage. Equivalent to using a space heater for a weekend. By comparison, the cost of just having my monitor on while working was 5 times that, while my PC used about 60 times.
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/109d74d9-aff8-4edf-861b-e91950fc76ac" />
+
+I didn't forget the bar for ai water, it's just less than a pixel tall. You'll need one of those 16k monitors with a vertical mount for it to be visible. "Blue water" isn't some trick btw, it's the one people [care about](https://www.fao.org/4/w2612e/w2612e07a.htm), or at least they do when two particular English syllables get uttered. In fact most of the blue water consumed 
+
+
+While developing over 3 years of dev, my total energy usage for AI tools was only 2 percent of my computer's electrical usage. Equivalent to using a space heater for a weekend. By comparison, the cost of just having my monitor on while working was 5 times that, while my PC used about 60 times. Water usage of the AI was 33 almonds.
 
 ## more points addressed, but under WIP status
 
