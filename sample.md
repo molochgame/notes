@@ -86,8 +86,7 @@ _Damn_, I forgot the "project into future" inflator trick for the gamer one... I
 
 <img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/109d74d9-aff8-4edf-861b-e91950fc76ac" />
 
-I didn't forget the bar for ai water, it's just less than a pixel tall. You'll need one of those 16k monitors with a vertical mount for it to be visible. "Blue water" isn't some trick btw, it's the one people [care about](https://www.fao.org/4/w2612e/w2612e07a.htm), or at least they do when two particular English syllables get uttered. In fact most of the blue water consumed 
-
+I didn't forget the bar for ai water, it's just less than a pixel tall. You'll need one of those 16k monitors with a vertical mount for it to be visible. "Blue water" isn't some trick btw, it's the one people [care about](https://www.fao.org/4/w2612e/w2612e07a.htm), or at least they do when two particular English syllables get uttered.
 
 While developing over 3 years of dev, my total energy usage for AI tools was only 2 percent of my computer's electrical usage. Equivalent to using a space heater for a weekend. By comparison, the cost of just having my monitor on while working was 5 times that, while my PC used about 60 times. Water usage of the AI was 33 almonds.
 
