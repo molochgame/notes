@@ -88,10 +88,9 @@ If my choice of color coding wasn't obvious, it's a reference to the most common
 
 The youtube video spoils it, but if the doctor would have kept taking data points, she would have noticed my heart rate was bouncing all over the place because I was suffering from tachycardia, which can be life threatening. (In this case it probably wasn't)
 
-To make everyone happy I included the produce/train resources for the AI but not the toaster. Nobody asks about the resources used to produce toasters and lawnmowers because nobody cares about them. People want dirt on AI. Social dynamics play a major role: almost nobody likes to correct factual mistakes in social settings, even _if_ they know better, assuming the target is uncool. This always causes bullshit to spread like wildfire.
+To make everyone happy I included the produce/train resources for the AI but not the toaster. Nobody asks about the resources used to produce toasters and lawnmowers because nobody cares about them. People want dirt on AI. Social dynamics play a major role: almost nobody likes to correct factual mistakes in social settings, even _if_ they know better, assuming the target is uncool. This always causes bullshit to spread like wildfire because there is _nothing to stop it_.
 
 Sometimes nobody is willing to be the "um actually" guy (cringe). Entire nations have played this game, usually by convincing themselves they are special, and it always ends with them losing a war and 20% of their population (based). Everyone wants to be cool and have friends, and it takes a certain skill to be able to "read the room". It takes another skill to notice when a room isn't worth being in.
-
 
 While developing over 3 years of dev, my total energy usage for AI tools was only 2 percent of my computer's electrical usage. Equivalent to using a space heater for a weekend. By comparison, the cost of just having my monitor on while working was 5 times that, while my PC used about 60 times. Water usage of the AI was 33 almonds.
 
