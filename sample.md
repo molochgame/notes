@@ -54,7 +54,20 @@ Don't you love **facts**? Anyone wanting to **fact** check will find my title is
 Surge in demand is the real issue, because AI is the [fastest-growing consumer application in history](https://www.reuters.com/legal/transactional/anthropic-v-openai-behind-bitter-battle-future-ai-2026-06-11/). _It is_ stupid that a data center could increase your electrical bill. They should have to pay for their own electricity, not you. It is smart to not want datacenters next to your home in the same way you don't want iron mines or toilet paper factories in your backyard. You probably shouldn't ditch ALL their products because a few were poorly placed though.
 
 
-<img width="1672" height="941" alt="abc" src="https://github.com/user-attachments/assets/25fafafe-0cf2-4a80-9717-b71d5c2f58fa" />
+
+<img width="613" height="184" alt="g" src="https://github.com/user-attachments/assets/7933356f-c02b-4ed0-ba3e-ac7bb93e6b2d" />
+
+
+##
+_Damn_, I forgot the "project into future" inflator trick for the gamer one... I'll just do another:
+
+<img width="618" height="182" alt="v" src="https://github.com/user-attachments/assets/245b39cf-99d2-496c-bf54-760e622b2869" />
+
+> "What do you expect them to do, NOT have perfectly green grass!?"
+
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/109d74d9-aff8-4edf-861b-e91950fc76ac" />
+
+I didn't forget the bar for ai water, it's just less than a pixel tall. You'll need one of those 16k monitors with a vertical mount for it to be visible. "Blue water" isn't some trick btw, it's the one people [care about](https://www.fao.org/4/w2612e/w2612e07a.htm), or at least they do when two particular English syllables get uttered.
 
 Now if you're sophisticated, you'll wonder "Did the numbers in the chart include the resources used to build the thing?" But if you're _really_ sophisticated, you'll wonder why nobody seems to asks that same question about toasters and lawnmowers.
 
@@ -75,21 +88,10 @@ If my choice of color coding wasn't obvious, it's a reference to the most common
 
 The youtube video spoils it, but if the doctor would have kept taking data points, she would have noticed my heart rate was bouncing all over the place because I was suffering from tachycardia, which can be life threatening. (In this case it probably wasn't)
 
-To make everyone happy I included it for the AI but not the toaster. Nobody asks about the resources used to produce toasters and lawnmowers because nobody cares about them. People want dirt on AI. Social dynamics play a role: almost nobody likes to correct factual mistakes in social settings, even _if_ they know better, assuming the target is uncool. This causes bullshit to spread like wildfire. Sometimes no one is willing to be the "um actually" guy (cringe). Entire nations have played this game, usually by convincing themselves they are special, and it always ends with them losing a war and 20% of their population (based). Everyone wants to be cool and have friends, and it takes a certain skill to be able to "read the room". It takes another skill to notice when a room isn't worth being in.
+To make everyone happy I included the produce/train resources for the AI but not the toaster. Nobody asks about the resources used to produce toasters and lawnmowers because nobody cares about them. People want dirt on AI. Social dynamics play a major role: almost nobody likes to correct factual mistakes in social settings, even _if_ they know better, assuming the target is uncool. This always causes bullshit to spread like wildfire.
 
-<img width="613" height="184" alt="g" src="https://github.com/user-attachments/assets/7933356f-c02b-4ed0-ba3e-ac7bb93e6b2d" />
+Sometimes nobody is willing to be the "um actually" guy (cringe). Entire nations have played this game, usually by convincing themselves they are special, and it always ends with them losing a war and 20% of their population (based). Everyone wants to be cool and have friends, and it takes a certain skill to be able to "read the room". It takes another skill to notice when a room isn't worth being in.
 
-
-##
-_Damn_, I forgot the "project into future" inflator trick for the gamer one... I'll just do another:
-
-<img width="618" height="182" alt="v" src="https://github.com/user-attachments/assets/245b39cf-99d2-496c-bf54-760e622b2869" />
-
-> "What do you expect them to do, NOT have perfectly green grass!?"
-
-<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/109d74d9-aff8-4edf-861b-e91950fc76ac" />
-
-I didn't forget the bar for ai water, it's just less than a pixel tall. You'll need one of those 16k monitors with a vertical mount for it to be visible. "Blue water" isn't some trick btw, it's the one people [care about](https://www.fao.org/4/w2612e/w2612e07a.htm), or at least they do when two particular English syllables get uttered.
 
 While developing over 3 years of dev, my total energy usage for AI tools was only 2 percent of my computer's electrical usage. Equivalent to using a space heater for a weekend. By comparison, the cost of just having my monitor on while working was 5 times that, while my PC used about 60 times. Water usage of the AI was 33 almonds.
 
