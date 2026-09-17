@@ -51,7 +51,10 @@ Fox? New York Times? Reddit front page? I'm available for work!
 
 Don't you love **facts**? Anyone wanting to **fact** check will find my title is **fact**ually true! It's not meaningful of course, but you're not going to stumble upon counter arguments while Googling, because google search simply finds you what you are _looking for_. Confirmation bias machines. If only we could invent a [technology that could answer a persons questions with nuance](https://chatgpt.com/share/6aa6d420-1bdc-83ea-8528-79daa58d49a6)...
 
-Surge in demand is the real issue, because AI is the [fastest-growing consumer application in history](https://www.reuters.com/legal/transactional/anthropic-v-openai-behind-bitter-battle-future-ai-2026-06-11/). It's smart to not want datacenters next to your home in the same way you don't want iron mines or toilet paper factories in your backyard, but you probably wouldn't want to ditch their products.
+Surge in demand is the real issue, because AI is the [fastest-growing consumer application in history](https://www.reuters.com/legal/transactional/anthropic-v-openai-behind-bitter-battle-future-ai-2026-06-11/). _It is_ stupid that a data center could increase your electrical bill. They should have to pay for their own electricity, not you. It is smart to not want datacenters next to your home in the same way you don't want iron mines or toilet paper factories in your backyard. You probably shouldn't ditch ALL their products because a few were poorly placed though.
+
+
+<img width="1672" height="941" alt="abc" src="https://github.com/user-attachments/assets/25fafafe-0cf2-4a80-9717-b71d5c2f58fa" />
 
 Now if you're sophisticated, you'll wonder "Did the numbers in the chart include the resources used to build the thing?" But if you're _really_ sophisticated, you'll wonder why nobody seems to asks that same question about toasters and lawnmowers.
 
