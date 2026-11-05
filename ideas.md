@@ -1,19 +1,35 @@
 ## Ideas
-A list of ideas, sorted from best to worst, for video essays.
-gwern.net
-slatestarcodex.com
-astralcodexten.com
+A list of ideas, sorted from best to worst, for video essays. Idea sources / inspirations are listed in bullet point.
+
+* gwern.net
+* slatestarcodex.com
+* astralcodexten.com
 
 
 ## Causation
-How do humans typically assign the "cause" of an event. 
+How do humans typically assign the "cause" of an event? Causation is actually a massive graph of chain events. When people make claims about causation, they are typically making a kind of actionable claim: "we **should** attempt change at this node". This often becomes political.
 
-Causation is actually a massive graph of chain events. When people make claims about causation, they are typically making a kind of actionable claim "we **should** attempt change at this node".
-https://gwern.net/causality
+* https://gwern.net/causality
+
+
+## Moloch
+obvious
 
 
 ## Experts
 When two people claim to be experts in a field, but disagree, how can you figure out which one to trust?
+
+
+## How is AI doing any of this?
+
+* https://gwern.net/scaling-hypothesis "bag of tricks"
+
+I think we understand intelligence well enough now. 
+Breaking down problems into sub problems, which can then be combined to accomplish novel things, teaching the fundamentals of algebra lets you solve any algebra problem, alpha go, AI mathematics research, leetcode patterns, etc. Example: Once you learn to drive to the store, you can probably navigate the car anywhere. Intelligence is like a Turing completeness for solving problems, and we now have AI systems that can do them all. We can break them down and discuss them.
+
+You could try to classify them: Memory (can you store newly acquired information) Reflection (can you accurately assess whether you are making progress toward your goal, or stuck and need to attempt something new) and we could go on, but in fact these blend together and classifying them detracts from the central concept: these are all just a learned set of tricks. If you can pattern match from experience well enough to apply the right trick at the right time you can solve the problem.
+
+What if the problem requires a new trick? All tricks are merely combinations of smaller "tricks".
 
 
 ## Class
