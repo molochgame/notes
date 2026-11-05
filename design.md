@@ -12,3 +12,8 @@ Microhumor is so critical
 ## Promotion
 Videos on different subjects attract wide audiences. You can post a video to a subreddit if it's relevant to them!
 
+
+## Education
+Effective Education videos have to directly contradict false things. https://www.youtube.com/watch?v=RQaW2bFieo8
+
+
