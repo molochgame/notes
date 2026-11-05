@@ -20,7 +20,9 @@ obvious
 When two people claim to be experts in a field, but disagree, how can you figure out which one to trust?
 
 
-## How is AI doing any of this?
+## Intelligence
+
+Title ideas: "How is AI doing any of this?" "We understand intelligence now"
 
 * https://gwern.net/scaling-hypothesis "bag of tricks"
 
