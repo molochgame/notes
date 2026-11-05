@@ -16,10 +16,10 @@ How do humans typically assign the "cause" of an event? Causation is actually a 
 obvious
 
 ## Memes
-Title Ideas: "What Mr Beast and the NYT have in common." "Memes that want to kill you"
+Title Ideas: "How to spot misinformation" "What Mr Beast and the NYT have in common." "Memes that want to kill you"
+thumbnail Once you see it \n it's everywhere
 
-
-Funny cat image, 
+Funny cat images, Newtons laws of motion, etc. are all memes
 
 Memes are like genes, and they do not care about you or humanity. social media, clickbait are all natural selection engines. Social media algorithms maximize engagement.
 Partially Written as an article (would need changes): [sample.md](sample.md)
