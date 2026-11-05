@@ -16,7 +16,7 @@ How do humans typically assign the "cause" of an event? Causation is actually a 
 obvious
 
 ## Memes
-Title Ideas: "How to spot misinformation" "What Mr Beast and the NYT have in common." "Memes that want to kill you"
+Title Ideas: "The worlds most dangerous memes" "How to spot misinformation" "What Mr Beast and the NYT have in common." "Memes that want to kill you" 
 thumbnail Once you see it \n it's everywhere
 
 Funny cat images, Newtons laws of motion, etc. are all memes
