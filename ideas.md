@@ -41,6 +41,6 @@ Class is a real phenomenon  (learned heuristics about good life strategies, plus
 
 
 
-
-
+## Debates
+review a presidential debate from the perspective of https://slatestarcodex.com/2014/11/04/ethnic-tension-and-meaningless-arguments/
 
