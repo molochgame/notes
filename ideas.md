@@ -11,6 +11,10 @@ How do humans typically assign the "cause" of an event? Causation is actually a 
 
 * https://gwern.net/causality
 
+## Memes
+Memes that want to kill you
+[sample.md]()
+
 
 ## Moloch
 obvious
@@ -43,4 +47,7 @@ Class is a real phenomenon  (learned heuristics about good life strategies, plus
 
 ## Debates
 review a presidential debate from the perspective of https://slatestarcodex.com/2014/11/04/ethnic-tension-and-meaningless-arguments/
+
+
+
 
