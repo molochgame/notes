@@ -17,7 +17,7 @@ obvious
 
 
 ## Experts
-When two people claim to be experts in a field, but disagree, how can you figure out which one to trust?
+When two people claim to be experts in a field, but disagree, how can you figure out which one to trust? There is a slight Star Codex article slightly related to this I haven't found yet.
 
 
 ## Intelligence
@@ -37,7 +37,8 @@ What if the problem requires a new trick? All tricks are merely combinations of 
 ## Class
 What does it mean to be classy? 
 
-Class is a real phenomenon
+Class is a real phenomenon  (learned heuristics about good life strategies, plus signaling, plus intelligence) It's typically classier to be a more forgetting more forgiving Rather than tit for tat in the iterated game theory game.
+
 
 
 
